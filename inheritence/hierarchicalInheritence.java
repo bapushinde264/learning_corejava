@@ -13,7 +13,7 @@ public class hierarchicalInheritence {
         obj.withdraw(2000);
 
         obj.accountHolderName = "Bapu";
-        obj2.balance(1500);
+        obj2.balance = 1500;
         obj2.intrestRate = 5;
         obj2.applyInterest();
 
